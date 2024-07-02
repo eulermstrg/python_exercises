@@ -1,1 +1,0 @@
-pyinstaller --onefile --windowed --icon=icone.ico seu_script.py
